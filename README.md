@@ -5,6 +5,8 @@
 ## 데자와의 나이?
 ## 데자와의 경쟁 제품
 ### 실론티 
-## 데자와의 카페인 함량
+
+## 데자와의 카페인 함량과 성분표
 ![카페인 함량](./img/caffeine.jpg)
 
+<img src="http://image.lottemart.com/lim/static_root/images/proddescrimg/images/001022/170510-TMT500_%ED%91%9C%EC%8B%9C%EC%82%AC%ED%95%AD.jpg" width="70%">
